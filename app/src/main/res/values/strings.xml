@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLite_RView</string>
+    <string name="result">0</string>
+    <string name="plus">+</string>
+    <string name="add">add</string>
+    <string name="minus">-</string>
+    <string name="o">o</string>
+    <string name="empty_item">Empty item</string>
+</resources>
